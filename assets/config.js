@@ -9,11 +9,11 @@ const persona = {
 	telefono: "+57 3158809879",
 	perfil: "Tecnico en diseño grafico, estudiando actualmente desarrollo de sistemas, con buena capacidad de trabajar en equipo y adaptabilidad.",
 	habilidades: {
-		comunicativas:['Actitud Positiva, ','Tolerancia, ','Respeto, ','Orden, '],
+		comunicativas:   ['Actitud Positiva, ','Tolerancia, ','Respeto, ','Orden. '],
 		gestion: ['Creativo, ','Responsabilidad, ','Análisis para toma de Decisiones Junior'],
 		tecnicas: ['Illustrator, ','Bases de Datos SQL, ', 'Office']
 	},
-	hobbies: ['Escuchar Música, ', 'Dormir, ', 'Jugar futbol, ']
+	hobbies: ['Escuchar Música, ', 'Dormir, ', 'Jugar futbol. ']
 }
 
 // Dejar intácto a partir de aquí.
